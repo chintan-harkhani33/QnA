@@ -1,0 +1,32 @@
+D:\.NetPractice\Generate Question\Generate Question\bin\Debug\net8.0\appsettings.Development.json
+D:\.NetPractice\Generate Question\Generate Question\bin\Debug\net8.0\appsettings.json
+D:\.NetPractice\Generate Question\Generate Question\bin\Debug\net8.0\Generate Question.exe
+D:\.NetPractice\Generate Question\Generate Question\bin\Debug\net8.0\Generate Question.deps.json
+D:\.NetPractice\Generate Question\Generate Question\bin\Debug\net8.0\Generate Question.runtimeconfig.json
+D:\.NetPractice\Generate Question\Generate Question\bin\Debug\net8.0\Generate Question.dll
+D:\.NetPractice\Generate Question\Generate Question\bin\Debug\net8.0\Generate Question.pdb
+D:\.NetPractice\Generate Question\Generate Question\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\.NetPractice\Generate Question\Generate Question\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.NetPractice\Generate Question\Generate Question\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.NetPractice\Generate Question\Generate Question\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.NetPractice\Generate Question\Generate Question\obj\Debug\net8.0\Generate Question.csproj.AssemblyReference.cache
+D:\.NetPractice\Generate Question\Generate Question\obj\Debug\net8.0\Generate Question.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetPractice\Generate Question\Generate Question\obj\Debug\net8.0\Generate Question.AssemblyInfoInputs.cache
+D:\.NetPractice\Generate Question\Generate Question\obj\Debug\net8.0\Generate Question.AssemblyInfo.cs
+D:\.NetPractice\Generate Question\Generate Question\obj\Debug\net8.0\Generate Question.csproj.CoreCompileInputs.cache
+D:\.NetPractice\Generate Question\Generate Question\obj\Debug\net8.0\Generate Question.MvcApplicationPartsAssemblyInfo.cs
+D:\.NetPractice\Generate Question\Generate Question\obj\Debug\net8.0\Generate Question.MvcApplicationPartsAssemblyInfo.cache
+D:\.NetPractice\Generate Question\Generate Question\obj\Debug\net8.0\staticwebassets.build.json
+D:\.NetPractice\Generate Question\Generate Question\obj\Debug\net8.0\staticwebassets.development.json
+D:\.NetPractice\Generate Question\Generate Question\obj\Debug\net8.0\staticwebassets\msbuild.Generate Question.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.NetPractice\Generate Question\Generate Question\obj\Debug\net8.0\staticwebassets\msbuild.build.Generate Question.props
+D:\.NetPractice\Generate Question\Generate Question\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Generate Question.props
+D:\.NetPractice\Generate Question\Generate Question\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Generate Question.props
+D:\.NetPractice\Generate Question\Generate Question\obj\Debug\net8.0\staticwebassets.pack.json
+D:\.NetPractice\Generate Question\Generate Question\obj\Debug\net8.0\scopedcss\bundle\Generate Question.styles.css
+D:\.NetPractice\Generate Question\Generate Question\obj\Debug\net8.0\Generate.6838EA15.Up2Date
+D:\.NetPractice\Generate Question\Generate Question\obj\Debug\net8.0\Generate Question.dll
+D:\.NetPractice\Generate Question\Generate Question\obj\Debug\net8.0\refint\Generate Question.dll
+D:\.NetPractice\Generate Question\Generate Question\obj\Debug\net8.0\Generate Question.pdb
+D:\.NetPractice\Generate Question\Generate Question\obj\Debug\net8.0\Generate Question.genruntimeconfig.cache
+D:\.NetPractice\Generate Question\Generate Question\obj\Debug\net8.0\ref\Generate Question.dll
